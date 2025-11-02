@@ -50,7 +50,7 @@ todo_app/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourname/flask-todo-app.git
+git https://github.com/KirkYagami/flask-todos-app.git
 cd flask-todo-app
 ```
 
